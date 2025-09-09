@@ -96,3 +96,4 @@ The project is designed to be a clear, practical example of a modern data engine
     - On the Airflow UI, find your `youtube_dag`. Turn it on, and then trigger it manually to start the ETL process.
 
 ## Project Structure
+<img width="1211" height="542" alt="image" src="https://github.com/user-attachments/assets/2a2c5939-1b81-4b03-a447-52ac0b072ea2" />
